@@ -1,2 +1,2 @@
 # github-example
-This repository is an example of how to create a github repository and properly set it up
+This repository is a demostration of how to create a github repository and properly set it up
